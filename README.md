@@ -18,6 +18,11 @@ CoLI-Dravidian @ FIRE 2025 Shared Task on Word-Level Language Identification
 | Tulu      | **0.8224** | **🥈 2nd** | 29,524 / 3,006 / 3,283 |
 | Kannada   | 0.8995 | 7th | 30,910 / 2,016 / 2,075 |
 
+## 📹 Presentation
+   
+   [Watch our FIRE 2025 presentation on YouTube]([YOUR_YOUTUBE_LINK_HERE](https://www.youtube.com/watch?v=m7QtreTPBDM))
+starts at 2 hours and 8 minutes
+
 ## 📖 Abstract
 
 Language detection is the process of automatically identifying the language used in a text, even when that text is not always coherent or grammatically correct. This challenge becomes much tougher when dealing with code-mixed or multilingual text, which is common in linguistically diverse regions like South India.
