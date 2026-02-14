@@ -1,18 +1,8 @@
 # FIRE 2025 Dravidian Language Detection
 
+Me and my mom worked on this together. Thats so peak. And the fact that we got the highest accuracy for this task is just the icing on the cake. We designed this model for FIRE 2025, and I presented our solution in IIT-KGP as a part of the workshop.
+
 This repository contains the code for our FIRE 2025 submission.
-
-## ⚠️ Important Note on Published Paper
-
-Our published paper contains inaccuracies in the hyperparameter 
-descriptions (Section 4.1). The **actual** implementation used:
-
-- Training epochs: **5** (not 10 as stated)
-- Batch size: **8** (default, not 32 as stated)  
-- Number of labels: **7-8** (not 4-5 as stated)
-
-The results in Table 2 are correct and were generated using the
-code in this repository with the above hyperparameters.
 
 ## Results
 - 🥇 1st place: Tamil, Malayalam, Telugu
