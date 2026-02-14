@@ -20,7 +20,8 @@ CoLI-Dravidian @ FIRE 2025 Shared Task on Word-Level Language Identification
 
 ## 📹 Presentation
    
-   [Watch our FIRE 2025 presentation on YouTube]([YOUR_YOUTUBE_LINK_HERE](https://www.youtube.com/watch?v=m7QtreTPBDM))
+   [Watch our FIRE 2025 presentation on YouTube]
+   https://www.youtube.com/watch?v=m7QtreTPBDM
 starts at 2 hours and 8 minutes
 
 ## 📖 Abstract
