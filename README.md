@@ -1,2 +1,3 @@
-# interdisciplinary_projects
-The first "big" independent project id worked on was not on ML but in biology. After working with two really good friends, exploring topics that me and a lot of my friends had in common became very common. This has most of them.
+# Transformer Driven Word Level Classification of Dravidian Languages
+
+Me and my mom worked on this together. Thats so peak. And the fact that we got the highest accuracy for this task is just the icing on the cake. We designed this model for FIRE 2025, and I presented our solution in IIT-KGP as a part of the workshop. 
